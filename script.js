@@ -3,9 +3,9 @@
 class Parquimetro{
     constructor(){
     this.tabelaValores = [
-        { valor: 1.00, tempo: 30 },
+        { valor: 3.00, tempo: 120 },
         { valor: 1.75, tempo: 60 },
-        { valor: 3.00, tempo: 120}
+        { valor: 1.00, tempo: 30}
     ];
     this.ValorMinimo = 1.00;
     this.TempoMaximo = 120;
